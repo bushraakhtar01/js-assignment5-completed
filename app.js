@@ -47,7 +47,7 @@
 // var message="PIZZA\r\nPIZZ\r\nPIZ\r\nPI\r\nP";
 // alert(message);
 
-//   alert(pizza)
+
  
 //   chapter 2 task 6
 // var email="akhtarbushra59@gmail.com";
@@ -73,23 +73,23 @@
 
 
 
-// Assignment 3 task 1
+// chapter 3 task 1
 // var age;
 // age='22 years old';
 // alert(age)
 
-// Assignment 3 task 2
+// chapter 3 task 2
 
 //var num=localStorage.getItem("counter");
 //localStorage.setItem("counter",++num);
 //alert("You have visited the website  "+num+" times")
 
-// Assignment 3 task 3
+// chapter 3 task 3
 // const birthYear="1997";
 // document.write("My birth year is " + birthYear + " <br/> Data type of my declared variable is number")
 //document.write("Data Type of my declared variable is "+ typeof(birthYear));
 
-// Assignment 3 task 4
+// chapter 3 task 4
 // var vname="Jhon Doe";
 // var vproduct="T-shirt";
 // var vquantity="5";
