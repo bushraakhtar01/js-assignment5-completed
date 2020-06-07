@@ -80,9 +80,10 @@
 
 // Assignment 3 task 2
 
-var num=localStorage.getItem("counter");
-alert("You have visited the wewbsite  "+num+" times")
-localStorage.setItem("counter",++num);
+//var num=localStorage.getItem("counter");
+//localStorage.setItem("counter",++num);
+//alert("You have visited the wewbsite  "+num+" times")
+
 
 
 
