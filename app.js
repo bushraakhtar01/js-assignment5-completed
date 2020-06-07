@@ -82,11 +82,7 @@
 
 //var num=localStorage.getItem("counter");
 //localStorage.setItem("counter",++num);
-//alert("You have visited the wewbsite  "+num+" times")
-
-
-
-
+//alert("You have visited the website  "+num+" times")
 
 // Assignment 3 task 3
 // const birthYear="1997";
