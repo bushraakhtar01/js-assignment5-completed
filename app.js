@@ -14,6 +14,12 @@
 //chapter 1 task 5
 // console.log(alert("Hello...i can run JS through browsers console"))
 
+//chaper 1 task 6
+//Successfully applied alert in my project
+
+//chapter 1 task 7
+//Positive results by applying script on mentioned positions
+
 
 
 
@@ -195,9 +201,9 @@
 // document.write("The remainder is "+ a%3)
 
 // chapter 5 task 4
-// var ticket="600";
+// var ticket=600;
 //var noOfTickets=5;
-// document.write("Total cost to buy 5 tickets to a movie is " + (noOfTickets*5) + " PKR" )
+// document.write("Total cost to buy 5 tickets to a movie is " + (ticket*noOfTickets) + " PKR" )
 
 // chapter 5 task 5
 // var x=4;
@@ -230,6 +236,12 @@
 // var totalX=x *xQuantity;
 // var totalY=y * yQuantity;
 // document.write("<h1>Shopping Cart</h1>")
+//document.write("<h1>Shopping Cart</h1> <br> <br>")
+//document.write("Price of item 1 : "+x+"<br>");
+//document.write("Qunatity of item 1 : "+xQuantity+"<br>");
+//document.write("Price of item 2 : "+y+"<br>");
+//document.write("Quantity of item 1 : "+yQuantity+"<br>");
+//document.write("Shipping Charges : "+z+"<br><br>");
 // document.write("Total cost of your order is "+ (totalX+totalY+z));
 
 // chapter 5 task 8
@@ -509,13 +521,13 @@
 // }
 
 // chapter 9-11 task 8
-// var num=+prompt("enter num");
+// var num=+prompt("enter number");
 // if(num%3==0){
 //     alert(num+" is divisible by 3")
 // }
 
 // chapter 9-11 task 9
-// var num=+prompt("enter num");
+// var num=+prompt("enter number");
 // if(num%2==0){
 //     alert(num+" is even number")
 // }
@@ -623,7 +635,7 @@
 //     alert('Incorrect password')
 // }
 
-// chpater 8 task 6
+// chpater 12-13 task 6
 // var greeting;
 // var hour = 13;
 // if(hour < 18) {
